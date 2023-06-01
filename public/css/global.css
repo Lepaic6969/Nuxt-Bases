@@ -1,0 +1,5 @@
+body{
+    position: relative; /*Para que el footer se posiciones absolutamente con respecto del body*/
+    padding-bottom: 8rem;
+    min-height: 100vh;
+}
